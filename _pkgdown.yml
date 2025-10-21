@@ -20,10 +20,10 @@ navbar:
     gettingstarted:
       text: Getting Started
       menu:
-      - text: Instrumenting R Packages
-        href: reference/gettingstarted.html
-      - text: Collecting Telemetry Data (otelsdk package)
-        href: https://otelsdk.r-lib.org/reference/collecting.html
+        - text: Instrumenting R Packages
+          href: reference/gettingstarted.html
+        - text: Collecting Telemetry Data (otelsdk package)
+          href: https://otelsdk.r-lib.org/reference/collecting.html
 
 reference:
 - title: Other Documentation
